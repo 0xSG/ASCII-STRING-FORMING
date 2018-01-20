@@ -1,4 +1,4 @@
-# ASCII STRING FORMING
+# ASCII STRING FORMING :globe_with_meridians:
 
 **I**nput is taken from the user and that string is formed from scratch.
 Individual character of the string is taken. Each char is incremented on its ASCII value and checked against the given string.
